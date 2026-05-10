@@ -1,2 +1,2 @@
-# mlforge
-MLForge is an end-to-end machine learning toolkit for data preprocessing, missing value handling, outlier detection, feature engineering, feature selection, hyperparameter tuning, and automated EDA. Built to simplify and accelerate ML workflows with scalable, production-ready utilities for data scientists and ML engineers.
+# SutraML
+SutraML is an end-to-end machine learning toolkit for data preprocessing, missing value handling, outlier detection, feature engineering, feature selection, hyperparameter tuning, and automated EDA. Built to simplify and accelerate ML workflows with scalable, production-ready utilities for data scientists and ML engineers.
